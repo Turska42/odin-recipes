@@ -1,0 +1,41 @@
+/* recipe.css */
+
+* {
+    font-family: trebutchet MS, "Garamond" arial;
+}
+
+h1 {
+    text-align : center;
+    color :violet;
+}
+
+h2 {
+    text-align: center;
+    color :aqua;
+}
+
+h3 {
+    text-align: center;
+    color: blueviolet;
+}
+
+h4 {
+    text-align :center;
+}
+
+ul {
+    font-weight: bold;
+}
+
+p {
+    font-style: italic;
+}
+
+li {
+    font-style: oblique;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
